@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\SouthernTreasuresBLL_Categories.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\SouthernTreasuresBLL_Categories.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\SouthernTreasuresBLL_Categories.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\SouthernTreasuresDAL_Categories.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\SouthernTreasuresDAL_Connection.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\SouthernTreasuresDAL_Categories.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\SouthernTreasuresDAL_Categories.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\SouthernTreasuresDAL_Connection.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\bin\Debug\SouthernTreasuresDAL_Connection.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\obj\Debug\SouthernTreasuresBLL_Categories.csprojAssemblyReference.cache
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\obj\Debug\SouthernTreasuresBLL_Categories.csproj.CopyComplete
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\obj\Debug\SouthernTreasuresBLL_Categories.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Categories\obj\Debug\SouthernTreasuresBLL_Categories.pdb
