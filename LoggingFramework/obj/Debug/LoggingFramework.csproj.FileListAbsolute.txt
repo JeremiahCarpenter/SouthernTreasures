@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\LoggingFramework\bin\Debug\LoggingFramework.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\LoggingFramework\bin\Debug\LoggingFramework.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\LoggingFramework\bin\Debug\LoggingFramework.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\LoggingFramework\obj\Debug\LoggingFramework.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\LoggingFramework\obj\Debug\LoggingFramework.pdb
+C:\Users\David\Desktop\BCProjectCleanup\LoggingFramework\bin\Debug\LoggingFramework.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\LoggingFramework\bin\Debug\LoggingFramework.dll
+C:\Users\David\Desktop\BCProjectCleanup\LoggingFramework\bin\Debug\LoggingFramework.pdb
+C:\Users\David\Desktop\BCProjectCleanup\LoggingFramework\obj\Debug\LoggingFramework.dll
+C:\Users\David\Desktop\BCProjectCleanup\LoggingFramework\obj\Debug\LoggingFramework.pdb
