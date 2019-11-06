@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\bin\Debug\MiddlewareDAL_Users.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\bin\Debug\MiddlewareDAL_Users.dll
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\bin\Debug\MiddlewareDAL_Users.pdb
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\bin\Debug\MiddlewareDAL_Connection.dll
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\bin\Debug\MiddlewareDAL_Connection.pdb
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\bin\Debug\MiddlewareDAL_Connection.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\obj\Debug\MiddlewareDAL_Users.csprojAssemblyReference.cache
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\obj\Debug\MiddlewareDAL_Users.csproj.CopyComplete
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\obj\Debug\MiddlewareDAL_Users.dll
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Users\obj\Debug\MiddlewareDAL_Users.pdb
