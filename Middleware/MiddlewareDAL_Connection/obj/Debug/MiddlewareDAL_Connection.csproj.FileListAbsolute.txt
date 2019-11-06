@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Connection\bin\Debug\MiddlewareDAL_Connection.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Connection\bin\Debug\MiddlewareDAL_Connection.dll
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Connection\bin\Debug\MiddlewareDAL_Connection.pdb
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Connection\obj\Debug\MiddlewareDAL_Connection.dll
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Connection\obj\Debug\MiddlewareDAL_Connection.pdb
