@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\SouthernTreasuresBLL_Products.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\SouthernTreasuresBLL_Products.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\SouthernTreasuresBLL_Products.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\SouthernTreasuresDAL_Products.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\SouthernTreasuresDAL_Connection.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\SouthernTreasuresDAL_Products.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\SouthernTreasuresDAL_Products.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\SouthernTreasuresDAL_Connection.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\bin\Debug\SouthernTreasuresDAL_Connection.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\obj\Debug\SouthernTreasuresBLL_Products.csprojAssemblyReference.cache
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\obj\Debug\SouthernTreasuresBLL_Products.csproj.CopyComplete
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\obj\Debug\SouthernTreasuresBLL_Products.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Products\obj\Debug\SouthernTreasuresBLL_Products.pdb
