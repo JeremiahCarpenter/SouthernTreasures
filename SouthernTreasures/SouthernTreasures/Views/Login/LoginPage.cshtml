@@ -1,0 +1,28 @@
+﻿@model SouthernTreasures.Users.Model.UsersModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    ViewBag.Title = "Southern Treasures Login";
+}
+
+<h2>SouthernTreasures Login</h2>
+
+@using (Html.BeginForm("ProcessLogin", "Login", FormMethod.Post))
+{
+    @Html.Label("Username: ");
+    @Html.TextBoxFor(m => m.Name_Txt)
+    <br />
+    @Html.Label("Password: ");
+    @Html.TextBoxFor(m => m.Password_Txt, "name='Password:'")
+
+    <br />
+    <input type="submit" value="Login" />
+}
+
+<br />
+@Html.Label("Don't have an account?")
+<br />
+@Html.ActionLink("Click here to register", "/RegisterPage")
