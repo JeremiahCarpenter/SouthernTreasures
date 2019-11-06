@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\bin\Debug\SouthernTreasuresDAL_Offers.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\bin\Debug\SouthernTreasuresDAL_Offers.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\bin\Debug\SouthernTreasuresDAL_Offers.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\bin\Debug\SouthernTreasuresDAL_Connection.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\bin\Debug\SouthernTreasuresDAL_Connection.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\bin\Debug\SouthernTreasuresDAL_Connection.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\obj\Debug\SouthernTreasuresDAL_Offers.csprojAssemblyReference.cache
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\obj\Debug\SouthernTreasuresDAL_Offers.csproj.CopyComplete
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\obj\Debug\SouthernTreasuresDAL_Offers.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Offers\obj\Debug\SouthernTreasuresDAL_Offers.pdb
