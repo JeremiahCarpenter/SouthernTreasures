@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\SouthernTreasuresBLL_Users.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\SouthernTreasuresBLL_Users.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\SouthernTreasuresBLL_Users.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\SouthernTreasuresDAL_Users.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\System.Web.Http.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\SouthernTreasuresDAL_Users.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\SouthernTreasuresDAL_Users.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\bin\Debug\System.Web.Http.xml
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\obj\Debug\SouthernTreasuresBLL_Users.csprojAssemblyReference.cache
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\obj\Debug\SouthernTreasuresBLL_Users.csproj.CopyComplete
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\obj\Debug\SouthernTreasuresBLL_Users.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresBLL_Users\obj\Debug\SouthernTreasuresBLL_Users.pdb
