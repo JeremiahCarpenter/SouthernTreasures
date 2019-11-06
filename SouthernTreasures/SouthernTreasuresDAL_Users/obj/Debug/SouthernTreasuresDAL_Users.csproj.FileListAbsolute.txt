@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\obj\Debug\SouthernTreasuresDAL_Users.csprojAssemblyReference.cache
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\SouthernTreasuresDAL_Users.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\SouthernTreasuresDAL_Users.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\SouthernTreasuresDAL_Users.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\SouthernTreasuresDAL_Connection.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\System.Web.Http.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\SouthernTreasuresDAL_Connection.pdb
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\SouthernTreasuresDAL_Connection.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\bin\Debug\System.Web.Http.xml
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\obj\Debug\SouthernTreasuresDAL_Users.csproj.CopyComplete
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\obj\Debug\SouthernTreasuresDAL_Users.dll
+C:\Users\David\Desktop\BCProjectCleanup\SouthernTreasures\SouthernTreasuresDAL_Users\obj\Debug\SouthernTreasuresDAL_Users.pdb
