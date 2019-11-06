@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\bin\Debug\MiddlewareDAL_Logger.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\bin\Debug\MiddlewareDAL_Logger.dll
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\bin\Debug\MiddlewareDAL_Logger.pdb
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\bin\Debug\MiddlewareDAL_Connection.dll
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\bin\Debug\MiddlewareDAL_Connection.pdb
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\bin\Debug\MiddlewareDAL_Connection.dll.config
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\obj\Debug\MiddlewareDAL_Logger.csprojAssemblyReference.cache
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\obj\Debug\MiddlewareDAL_Logger.csproj.CopyComplete
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\obj\Debug\MiddlewareDAL_Logger.dll
+C:\Users\David\Desktop\BCProjectCleanup\Middleware\MiddlewareDAL_Logger\obj\Debug\MiddlewareDAL_Logger.pdb
